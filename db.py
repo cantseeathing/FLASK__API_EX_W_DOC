@@ -1,0 +1,2 @@
+items = dict()
+stores = dict()
